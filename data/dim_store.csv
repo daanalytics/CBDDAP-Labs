@@ -1,0 +1,12 @@
+store_key,store_id,store_name,city,state,country,region,store_type,opening_date
+1,S001,TechStore Amsterdam Center,Amsterdam,North Holland,Netherlands,Western Europe,Retail,2020-01-15
+2,S002,TechStore Rotterdam Mall,Rotterdam,South Holland,Netherlands,Western Europe,Retail,2020-03-20
+3,S003,TechStore Utrecht Central,Utrecht,Utrecht,Netherlands,Western Europe,Retail,2020-06-10
+4,S004,TechStore Online NL,Amsterdam,North Holland,Netherlands,Western Europe,Online,2019-01-01
+5,S005,TechStore Brussels Plaza,Brussels,Brussels Capital,Belgium,Western Europe,Retail,2020-09-15
+6,S006,TechStore Paris Champs,Paris,Île-de-France,France,Western Europe,Retail,2021-02-01
+7,S007,TechStore Berlin Central,Berlin,Berlin,Germany,Central Europe,Retail,2021-05-20
+8,S008,TechStore London Oxford,London,Greater London,United Kingdom,Northern Europe,Retail,2021-08-10
+9,S009,TechStore Online EU,Amsterdam,North Holland,Netherlands,Western Europe,Online,2019-06-01
+10,S010,TechStore Madrid Gran Via,Madrid,Community of Madrid,Spain,Southern Europe,Retail,2022-01-15
+

@@ -1,0 +1,363 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Laptop Pro 15",
+    "category": "Electronics",
+    "price": 1299.99,
+    "in_stock": true,
+    "specifications": {
+      "processor": "Intel i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen_size": "15.6 inch"
+    },
+    "ratings": {
+      "average": 4.5,
+      "count": 1250
+    },
+    "tags": ["laptop", "professional", "portable"]
+  },
+  {
+    "product_id": "P011",
+    "name": "Smartphone X12",
+    "category": "Electronics",
+    "price": 899.99,
+    "in_stock": true,
+    "specifications": {
+      "processor": "A15 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "camera": "12MP Triple"
+    },
+    "ratings": {
+      "average": 4.7,
+      "count": 3500
+    },
+    "tags": ["smartphone", "5G", "flagship"]
+  },
+  {
+    "product_id": "P013",
+    "name": "Headphones Wireless",
+    "category": "Electronics",
+    "price": 149.99,
+    "in_stock": true,
+    "specifications": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "battery_life": "30 hours",
+      "noise_cancelling": true
+    },
+    "ratings": {
+      "average": 4.3,
+      "count": 890
+    },
+    "tags": ["audio", "wireless", "noise-cancelling"]
+  },
+  {
+    "product_id": "P006",
+    "name": "Office Chair Deluxe",
+    "category": "Furniture",
+    "price": 249.99,
+    "in_stock": true,
+    "specifications": {
+      "material": "Mesh back",
+      "adjustable": true,
+      "lumbar_support": true,
+      "weight_capacity": "150kg"
+    },
+    "ratings": {
+      "average": 4.6,
+      "count": 650
+    },
+    "tags": ["ergonomic", "office", "comfort"]
+  },
+  {
+    "product_id": "P007",
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 499.99,
+    "in_stock": true,
+    "specifications": {
+      "dimensions": "180x80 cm",
+      "height_adjustable": true,
+      "motor": "Dual motor",
+      "weight_capacity": "100kg"
+    },
+    "ratings": {
+      "average": 4.8,
+      "count": 420
+    },
+    "tags": ["desk", "adjustable", "ergonomic"]
+  },
+  {
+    "product_id": "P031",
+    "name": "Smart Watch Sport",
+    "category": "Electronics",
+    "price": 299.99,
+    "in_stock": true,
+    "specifications": {
+      "display": "AMOLED 1.4 inch",
+      "battery_life": "7 days",
+      "water_resistant": "50m",
+      "sensors": ["heart_rate", "GPS", "altimeter"]
+    },
+    "ratings": {
+      "average": 4.4,
+      "count": 1100
+    },
+    "tags": ["smartwatch", "fitness", "waterproof"]
+  },
+  {
+    "product_id": "P019",
+    "name": "Yoga Mat Premium",
+    "category": "Sports",
+    "price": 49.99,
+    "in_stock": true,
+    "specifications": {
+      "material": "TPE",
+      "thickness": "6mm",
+      "size": "183x61 cm",
+      "non_slip": true
+    },
+    "ratings": {
+      "average": 4.7,
+      "count": 780
+    },
+    "tags": ["yoga", "fitness", "eco-friendly"]
+  },
+  {
+    "product_id": "P044",
+    "name": "Printer Wireless",
+    "category": "Electronics",
+    "price": 199.99,
+    "in_stock": false,
+    "specifications": {
+      "type": "Inkjet",
+      "connectivity": ["WiFi", "USB", "Ethernet"],
+      "print_speed": "15 ppm",
+      "color": true
+    },
+    "ratings": {
+      "average": 4.1,
+      "count": 520
+    },
+    "tags": ["printer", "wireless", "color"]
+  },
+  {
+    "product_id": "P025",
+    "name": "Winter Jacket",
+    "category": "Clothing",
+    "price": 149.99,
+    "in_stock": true,
+    "specifications": {
+      "material": "Polyester",
+      "insulation": "Down feather",
+      "waterproof": true,
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    "ratings": {
+      "average": 4.5,
+      "count": 340
+    },
+    "tags": ["winter", "outdoor", "warm"]
+  },
+  {
+    "product_id": "P029",
+    "name": "Suitcase 24 inch",
+    "category": "Bags",
+    "price": 129.99,
+    "in_stock": true,
+    "specifications": {
+      "material": "Polycarbonate",
+      "wheels": 4,
+      "capacity": "65L",
+      "lock": "TSA approved"
+    },
+    "ratings": {
+      "average": 4.6,
+      "count": 920
+    },
+    "tags": ["travel", "luggage", "durable"]
+  },
+  {
+    "product_id": "P041",
+    "name": "External SSD 1TB",
+    "category": "Electronics",
+    "price": 129.99,
+    "in_stock": true,
+    "specifications": {
+      "capacity": "1TB",
+      "interface": "USB 3.2",
+      "read_speed": "1050 MB/s",
+      "write_speed": "1000 MB/s"
+    },
+    "ratings": {
+      "average": 4.8,
+      "count": 1560
+    },
+    "tags": ["storage", "portable", "fast"]
+  },
+  {
+    "product_id": "P015",
+    "name": "Coffee Maker Pro",
+    "category": "Appliances",
+    "price": 79.99,
+    "in_stock": true,
+    "specifications": {
+      "type": "Drip",
+      "capacity": "12 cups",
+      "programmable": true,
+      "auto_shutoff": true
+    },
+    "ratings": {
+      "average": 4.2,
+      "count": 680
+    },
+    "tags": ["coffee", "kitchen", "programmable"]
+  },
+  {
+    "product_id": "P039",
+    "name": "Router WiFi 6",
+    "category": "Electronics",
+    "price": 149.99,
+    "in_stock": true,
+    "specifications": {
+      "standard": "WiFi 6 (802.11ax)",
+      "speed": "3000 Mbps",
+      "bands": "Dual-band",
+      "antennas": 4
+    },
+    "ratings": {
+      "average": 4.5,
+      "count": 440
+    },
+    "tags": ["networking", "wifi6", "router"]
+  },
+  {
+    "product_id": "P021",
+    "name": "Running Shoes Men",
+    "category": "Sports",
+    "price": 119.99,
+    "in_stock": true,
+    "specifications": {
+      "material": "Mesh",
+      "cushioning": "Air cushion",
+      "weight": "280g",
+      "sizes": [40, 41, 42, 43, 44, 45]
+    },
+    "ratings": {
+      "average": 4.4,
+      "count": 1240
+    },
+    "tags": ["running", "sports", "comfortable"]
+  },
+  {
+    "product_id": "P004",
+    "name": "Monitor 27 inch",
+    "category": "Electronics",
+    "price": 399.99,
+    "in_stock": true,
+    "specifications": {
+      "size": "27 inch",
+      "resolution": "2560x1440",
+      "refresh_rate": "144Hz",
+      "panel_type": "IPS"
+    },
+    "ratings": {
+      "average": 4.7,
+      "count": 890
+    },
+    "tags": ["monitor", "gaming", "high-refresh"]
+  },
+  {
+    "product_id": "P014",
+    "name": "Tablet 10 inch",
+    "category": "Electronics",
+    "price": 449.99,
+    "in_stock": false,
+    "specifications": {
+      "screen": "10.2 inch",
+      "processor": "A13",
+      "storage": "64GB",
+      "battery": "10 hours"
+    },
+    "ratings": {
+      "average": 4.6,
+      "count": 2100
+    },
+    "tags": ["tablet", "portable", "entertainment"]
+  },
+  {
+    "product_id": "P035",
+    "name": "Speaker Bluetooth",
+    "category": "Electronics",
+    "price": 59.99,
+    "in_stock": true,
+    "specifications": {
+      "output": "20W",
+      "battery_life": "12 hours",
+      "waterproof": "IPX7",
+      "connectivity": "Bluetooth 5.0"
+    },
+    "ratings": {
+      "average": 4.3,
+      "count": 950
+    },
+    "tags": ["speaker", "portable", "waterproof"]
+  },
+  {
+    "product_id": "P050",
+    "name": "Whiteboard Magnetic",
+    "category": "Office Supplies",
+    "price": 79.99,
+    "in_stock": true,
+    "specifications": {
+      "size": "90x60 cm",
+      "surface": "Magnetic",
+      "frame": "Aluminum",
+      "includes": ["markers", "eraser", "magnets"]
+    },
+    "ratings": {
+      "average": 4.5,
+      "count": 310
+    },
+    "tags": ["office", "whiteboard", "magnetic"]
+  },
+  {
+    "product_id": "P020",
+    "name": "Dumbbell Set 20kg",
+    "category": "Sports",
+    "price": 89.99,
+    "in_stock": true,
+    "specifications": {
+      "weight": "2x10kg",
+      "material": "Cast iron",
+      "coating": "Rubber",
+      "adjustable": false
+    },
+    "ratings": {
+      "average": 4.7,
+      "count": 540
+    },
+    "tags": ["fitness", "strength", "home-gym"]
+  },
+  {
+    "product_id": "P032",
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "price": 79.99,
+    "in_stock": true,
+    "specifications": {
+      "display": "OLED",
+      "battery_life": "14 days",
+      "water_resistant": "50m",
+      "features": ["step_counter", "sleep_tracking", "heart_rate"]
+    },
+    "ratings": {
+      "average": 4.2,
+      "count": 1780
+    },
+    "tags": ["fitness", "tracker", "health"]
+  }
+]
+

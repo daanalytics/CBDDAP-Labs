@@ -1,0 +1,102 @@
+customer_key,customer_id,first_name,last_name,email,city,country,customer_segment,registration_date
+1,C0001,John,Smith,john.smith@email.com,Amsterdam,Netherlands,Premium,2022-01-15
+2,C0002,Emma,Johnson,emma.j@email.com,Rotterdam,Netherlands,Regular,2022-02-20
+3,C0003,Michael,Williams,m.williams@email.com,Utrecht,Netherlands,Regular,2022-03-10
+4,C0004,Sophia,Brown,sophia.b@email.com,The Hague,Netherlands,Premium,2022-03-25
+5,C0005,James,Jones,james.jones@email.com,Eindhoven,Netherlands,Regular,2022-04-05
+6,C0006,Olivia,Garcia,olivia.g@email.com,Tilburg,Netherlands,Regular,2022-04-18
+7,C0007,William,Martinez,w.martinez@email.com,Groningen,Netherlands,Premium,2022-05-02
+8,C0008,Ava,Rodriguez,ava.r@email.com,Almere,Netherlands,Regular,2022-05-20
+9,C0009,Lucas,Davis,lucas.davis@email.com,Breda,Netherlands,Regular,2022-06-08
+10,C0010,Mia,Lopez,mia.lopez@email.com,Nijmegen,Netherlands,Premium,2022-06-22
+11,C0011,Alexander,Wilson,alex.w@email.com,Brussels,Belgium,Regular,2022-07-01
+12,C0012,Charlotte,Anderson,charlotte.a@email.com,Antwerp,Belgium,Premium,2022-07-15
+13,C0013,Daniel,Thomas,daniel.t@email.com,Ghent,Belgium,Regular,2022-08-03
+14,C0014,Amelia,Taylor,amelia.t@email.com,Charleroi,Belgium,Regular,2022-08-19
+15,C0015,Henry,Moore,henry.m@email.com,Liège,Belgium,Premium,2022-09-05
+16,C0016,Isabella,Jackson,isabella.j@email.com,Bruges,Belgium,Regular,2022-09-18
+17,C0017,Sebastian,Martin,seb.martin@email.com,Leuven,Belgium,Regular,2022-10-02
+18,C0018,Sofia,Lee,sofia.lee@email.com,Paris,France,Premium,2022-10-20
+19,C0019,Benjamin,White,ben.white@email.com,Lyon,France,Regular,2022-11-05
+20,C0020,Emily,Harris,emily.h@email.com,Marseille,France,Regular,2022-11-22
+21,C0021,Jacob,Clark,jacob.c@email.com,Toulouse,France,Premium,2022-12-01
+22,C0022,Aria,Lewis,aria.lewis@email.com,Nice,France,Regular,2022-12-15
+23,C0023,Ethan,Walker,ethan.w@email.com,Nantes,France,Regular,2023-01-08
+24,C0024,Madison,Hall,madison.h@email.com,Strasbourg,France,Premium,2023-01-25
+25,C0025,Matthew,Allen,matt.allen@email.com,Berlin,Germany,Regular,2023-02-10
+26,C0026,Chloe,Young,chloe.y@email.com,Munich,Germany,Premium,2023-02-28
+27,C0027,David,King,david.king@email.com,Hamburg,Germany,Regular,2023-03-15
+28,C0028,Grace,Wright,grace.w@email.com,Frankfurt,Germany,Regular,2023-04-02
+29,C0029,Joseph,Scott,joseph.s@email.com,Cologne,Germany,Premium,2023-04-20
+30,C0030,Lily,Green,lily.green@email.com,Stuttgart,Germany,Regular,2023-05-08
+31,C0031,Samuel,Adams,sam.adams@email.com,Düsseldorf,Germany,Regular,2023-05-25
+32,C0032,Ella,Baker,ella.baker@email.com,Dortmund,Germany,Premium,2023-06-10
+33,C0033,Jack,Nelson,jack.n@email.com,London,United Kingdom,Regular,2023-06-28
+34,C0034,Avery,Carter,avery.c@email.com,Manchester,United Kingdom,Premium,2023-07-15
+35,C0035,Owen,Mitchell,owen.m@email.com,Birmingham,United Kingdom,Regular,2023-08-01
+36,C0036,Scarlett,Perez,scarlett.p@email.com,Leeds,United Kingdom,Regular,2023-08-18
+37,C0037,Luke,Roberts,luke.r@email.com,Glasgow,United Kingdom,Premium,2023-09-05
+38,C0038,Zoe,Turner,zoe.turner@email.com,Edinburgh,United Kingdom,Regular,2023-09-22
+39,C0039,Ryan,Phillips,ryan.p@email.com,Liverpool,United Kingdom,Regular,2023-10-08
+40,C0040,Hannah,Campbell,hannah.c@email.com,Bristol,United Kingdom,Premium,2023-10-25
+41,C0041,Nathan,Parker,nathan.p@email.com,Madrid,Spain,Regular,2023-11-10
+42,C0042,Layla,Evans,layla.e@email.com,Barcelona,Spain,Premium,2023-11-28
+43,C0043,Isaac,Edwards,isaac.e@email.com,Valencia,Spain,Regular,2023-12-15
+44,C0044,Penelope,Collins,penny.c@email.com,Seville,Spain,Regular,2024-01-05
+45,C0045,Liam,Stewart,liam.s@email.com,Bilbao,Spain,Premium,2024-01-22
+46,C0046,Aubrey,Morris,aubrey.m@email.com,Málaga,Spain,Regular,2024-02-08
+47,C0047,Noah,Rogers,noah.r@email.com,Rome,Italy,Regular,2024-02-25
+48,C0048,Nora,Reed,nora.reed@email.com,Milan,Italy,Premium,2024-03-12
+49,C0049,Elijah,Cook,elijah.c@email.com,Naples,Italy,Regular,2024-03-28
+50,C0050,Hazel,Morgan,hazel.m@email.com,Turin,Italy,Regular,2024-04-15
+51,C0051,Mason,Bell,mason.b@email.com,Florence,Italy,Premium,2024-05-02
+52,C0052,Violet,Murphy,violet.m@email.com,Genoa,Italy,Regular,2024-05-20
+53,C0053,Logan,Bailey,logan.b@email.com,Zürich,Switzerland,Regular,2024-06-05
+54,C0054,Aurora,Rivera,aurora.r@email.com,Geneva,Switzerland,Premium,2024-06-22
+55,C0055,Jackson,Cooper,jackson.c@email.com,Basel,Switzerland,Regular,2024-07-10
+56,C0056,Lucy,Richardson,lucy.r@email.com,Lausanne,Switzerland,Regular,2024-07-28
+57,C0057,Carter,Cox,carter.c@email.com,Bern,Switzerland,Premium,2024-08-15
+58,C0058,Stella,Howard,stella.h@email.com,Vienna,Austria,Regular,2024-09-02
+59,C0059,Gabriel,Ward,gabriel.w@email.com,Salzburg,Austria,Regular,2024-09-20
+60,C0060,Eleanor,Torres,eleanor.t@email.com,Innsbruck,Austria,Premium,2024-10-08
+61,C0061,Julian,Peterson,julian.p@email.com,Copenhagen,Denmark,Regular,2024-10-25
+62,C0062,Maya,Gray,maya.gray@email.com,Aarhus,Denmark,Premium,2024-11-12
+63,C0063,Anthony,Ramirez,anthony.r@email.com,Odense,Denmark,Regular,2024-11-28
+64,C0064,Natalie,James,natalie.j@email.com,Stockholm,Sweden,Regular,2024-12-15
+65,C0065,Dylan,Watson,dylan.w@email.com,Gothenburg,Sweden,Premium,2025-01-02
+66,C0066,Claire,Brooks,claire.b@email.com,Malmö,Sweden,Regular,2025-01-20
+67,C0067,Christian,Kelly,chris.k@email.com,Oslo,Norway,Regular,2025-02-05
+68,C0068,Skylar,Sanders,skylar.s@email.com,Bergen,Norway,Premium,2025-02-22
+69,C0069,Andrew,Price,andrew.p@email.com,Trondheim,Norway,Regular,2025-03-10
+70,C0070,Addison,Bennett,addison.b@email.com,Helsinki,Finland,Regular,2025-03-28
+71,C0071,Joshua,Wood,joshua.w@email.com,Espoo,Finland,Premium,2025-04-15
+72,C0072,Brooklyn,Barnes,brooklyn.b@email.com,Tampere,Finland,Regular,2025-05-02
+73,C0073,Christopher,Ross,chris.ross@email.com,Dublin,Ireland,Regular,2025-05-20
+74,C0074,Savannah,Henderson,savannah.h@email.com,Cork,Ireland,Premium,2025-06-08
+75,C0075,Jonathan,Coleman,jon.c@email.com,Galway,Ireland,Regular,2025-06-25
+76,C0076,Anna,Jenkins,anna.j@email.com,Prague,Czech Republic,Regular,2025-07-12
+77,C0077,Wyatt,Perry,wyatt.p@email.com,Brno,Czech Republic,Premium,2025-07-28
+78,C0078,Samantha,Powell,samantha.p@email.com,Warsaw,Poland,Regular,2025-08-15
+79,C0079,Grayson,Long,grayson.l@email.com,Krakow,Poland,Regular,2025-09-02
+80,C0080,Leah,Patterson,leah.p@email.com,Gdansk,Poland,Premium,2025-09-20
+81,C0081,Evan,Hughes,evan.h@email.com,Budapest,Hungary,Regular,2025-10-08
+82,C0082,Victoria,Flores,victoria.f@email.com,Debrecen,Hungary,Premium,2025-10-25
+83,C0083,Jaxon,Washington,jaxon.w@email.com,Lisbon,Portugal,Regular,2023-03-12
+84,C0084,Aaliyah,Butler,aaliyah.b@email.com,Porto,Portugal,Regular,2023-06-18
+85,C0085,Asher,Simmons,asher.s@email.com,Athens,Greece,Premium,2023-09-22
+86,C0086,Bella,Foster,bella.f@email.com,Thessaloniki,Greece,Regular,2023-12-05
+87,C0087,Lincoln,Gonzales,lincoln.g@email.com,Luxembourg,Luxembourg,Regular,2024-03-15
+88,C0088,Sarah,Bryant,sarah.b@email.com,Amsterdam,Netherlands,Premium,2024-06-20
+89,C0089,Hunter,Alexander,hunter.a@email.com,Brussels,Belgium,Regular,2024-09-10
+90,C0090,Paisley,Russell,paisley.r@email.com,Paris,France,Regular,2024-12-01
+91,C0091,Aaron,Griffin,aaron.g@email.com,Berlin,Germany,Premium,2025-02-14
+92,C0092,Kennedy,Diaz,kennedy.d@email.com,London,United Kingdom,Regular,2025-05-08
+93,C0093,Cameron,Hayes,cameron.h@email.com,Madrid,Spain,Regular,2025-07-22
+94,C0094,Madelyn,Myers,madelyn.m@email.com,Rome,Italy,Premium,2023-04-30
+95,C0095,Cooper,Ford,cooper.f@email.com,Zürich,Switzerland,Regular,2023-08-16
+96,C0096,Allison,Hamilton,allison.h@email.com,Vienna,Austria,Regular,2024-01-28
+97,C0097,Zachary,Graham,zach.g@email.com,Copenhagen,Denmark,Premium,2024-05-12
+98,C0098,Evelyn,Sullivan,evelyn.s@email.com,Stockholm,Sweden,Regular,2024-08-25
+99,C0099,Kayden,Wallace,kayden.w@email.com,Oslo,Norway,Regular,2024-11-18
+100,C0100,Hailey,Woods,hailey.w@email.com,Helsinki,Finland,Premium,2025-03-05
+
